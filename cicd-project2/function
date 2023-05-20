@@ -9,5 +9,5 @@ if ( is_file_exist "$1" )
 then
 echo "file found"
 else
-echo "file not fpund"
+echo "file not found"
 fi
