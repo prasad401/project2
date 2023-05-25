@@ -1,6 +1,6 @@
 #! unitloops
 n=1
-until (( $n < 70 ))
+until (( $n < 120 ))
 do 
 echo $n
 (( n++ ))
