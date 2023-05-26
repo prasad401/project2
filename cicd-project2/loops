@@ -1,6 +1,10 @@
 #! unitloops
 n=1
+<<<<<<< HEAD
 until (( $n < 120 ))
+=======
+until (( $n < 100 ))
+>>>>>>> main
 do 
 echo $n
 (( n++ ))
