@@ -1,7 +1,7 @@
 #! /bin/bash
-for (( i=10 ; i<=20 ; i++ ))
+for (( i=20 ; i<=30 ; i++ ))
 do 
-if [ $i -gt 50 ]
+if [ $i -gt 60 ]
 then 
 break
 fi
